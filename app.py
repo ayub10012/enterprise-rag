@@ -29,7 +29,7 @@ VECTOR_DIR.mkdir(exist_ok=True, parents=True)
 
 # ================= MODELS =================
 EMBED_MODEL = "models/text-embedding-004"
-CHAT_MODEL = "models/gemini-pro"
+CHAT_MODEL = "models/gemini-2.5-flash"
 
 COLLECTION_NAME = "enterprise_docs"
 
